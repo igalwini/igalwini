@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 Hi, I'm Igal, a Jr Developer from Montevideo, Uruguay. Currently looking for my first job as a dev. I have great interpersonal skills and a constantly growing enthusiasm for software development. 
+
 Technologies ⚡:
--JavaScript
--HTML5
--CSS
--Java
--C++
+- JavaScript
+- HTML5
+- CSS
+- Java
+- C++
+
 Personal stuffs 🤔:
 - I'm a leader on a jewish youth movement 👯
 - I'm currently working on improving my techskill 💻

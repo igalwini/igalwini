@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Igal, a Jr Developer from Montevideo, Uruguay. Currently looking for my first job as a software developer. I have great interpersonal skills and a constantly growing enthusiasm for software development. 
+Hi, I'm Igal, a Jr Developer from Montevideo, Uruguay. Looking forward to work as a software developer. I have great interpersonal skills and a constantly growing enthusiasm for software development. 
 
 Technologies ⚡:
 - JavaScript
